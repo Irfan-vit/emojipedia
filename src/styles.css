@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  /* width: 80%; */
+  margin: 2rem;
+  padding: 2rem 3rem;
+  text-align: center;
+}
+
+.icon-style {
+  font-size: 2rem;
+  cursor: pointer;
+  border-radius: rem;
+  /* margin: 1rem 1rem; */
+  margin-top: 6rem;
+}
