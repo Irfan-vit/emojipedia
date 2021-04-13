@@ -487,7 +487,7 @@ export default function App() {
     <div className="App">
       <h1> 📙 Emojipedia </h1>
 
-      <input onChange={emojiInputHandler} />
+      <input onChange={emojiInputHandler} placeholder="search 🔎" />
 
       <h2> Output: {meaning} </h2>
 
